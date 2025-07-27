@@ -1,6 +1,6 @@
 # 🏢 DIC VR – Experiencia 3D con Babylon.js
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-dicvr-printer-info-10C8FF)](https://dic3dbabylonjs.vercel.app/)  
+[![Live Demo]](https://dic3dbabylonjs.vercel.app/)  
 [![Código en GitHub](https://img.shields.io/badge/GitHub-dicvr--printer--info-181717?logo=github)](https://github.com/albertoguinda/dicvr-printer-info)  
 [![Documentación PDF](https://img.shields.io/badge/Documentación-PDF-FF5722?logo=adobepdf)](./docs/DOCUMENTACIÓN%20OFICIAL%20DIC%20BABYLON.pdf)
 
